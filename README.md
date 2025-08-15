@@ -4,8 +4,6 @@
 You don’t own time — you have a finite number of **heartbeats** and **breaths**.  
 This tiny app visualizes your remaining beats/breaths/hours to nudge meaningful action.
 
-![Preview](./public/og-preview.png)
-
 ### Live
 - Web: https://mindfulaboutlife.codapt.app
 
@@ -17,4 +15,7 @@ Make every moment count.
 - Heartbeats ≈ `HR(bpm) × 60 × 24 × 365.25 × remainingYears`
 - Breaths   ≈ `BR(bpm) × 60 × 24 × 365.25 × remainingYears`
 Defaults: HR=70 bpm, BR=15 bpm, life expectancy=80y (configurable soon).
+
+<img width="1083" height="876" alt="image" src="https://github.com/user-attachments/assets/9af6d670-82ab-4ff4-b5a6-91587429f191" />
+
 
